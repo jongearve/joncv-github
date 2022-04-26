@@ -43,6 +43,12 @@ background-attachment: fixed;
 
 }
 
+form{
+
+padding: 0 20%;
+
+}
+
 /* Hero Section */
 
 #Hero-Section {
