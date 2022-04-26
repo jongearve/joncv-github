@@ -22,6 +22,27 @@ body {
 
 }
 
+.title-about {
+
+  text-transform: uppercase;
+  font-size: 3em;
+  border-bottom: 2px solid gray;
+  display: inline-block;
+  padding-bottom: 6px;
+
+}
+
+
+#works{
+
+background: url(../img/back-g.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+
+}
+
 /* Hero Section */
 
 #Hero-Section {
